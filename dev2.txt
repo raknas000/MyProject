@@ -1,5 +1,9 @@
 dev2 file created
 Amar added first line
 sankar added one line
+<<<<<<< HEAD
 sankar added second line
+=======
+Amar added second line
+>>>>>>> a671ec9ce39681b5b2fc4418ae749da81a4fe733
 
