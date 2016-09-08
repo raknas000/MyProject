@@ -1,4 +1,8 @@
 dev1 file created
 first line added
 second line added
+<<<<<<< HEAD
 Added first line by Amar
+=======
+sankar added one line
+>>>>>>> 790beaf0fc72f4c663a683ff4d012478c8bd59ec
